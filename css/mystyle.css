@@ -2,7 +2,8 @@
 /* CSS Document */
 
 /* NAVBAR */
-.nav-link {font-family: 'Helvetica';
+.nav-link {font-family: 'ohno-fatface-condensed, serif';
+	font-weight: 700;
 	color: #688E72;
 	margin-left: 80px;
 }
@@ -12,6 +13,7 @@
 
 .navbar {font-size: 1.5em
 }
+
 
 /* MAIN */
 .portfolio {font-family: 'Abril Fatface', cursive;
@@ -27,14 +29,16 @@ h1 {font-family: 'Abril Fatface', cursive;}
 p {font-family: 'Helvetica';
 font-size: 20px;}
 
-h2 {color: #688E72;
+h2 {font-family: 'ohno-fatface-condensed, serif';
+	color: #688E72;
 }
 
 /* ABOUT */
 .h1site { font-size: 6em;
 }
 
-.ptekst {font-size: 1.2em;
+.ptekst {font-family: 'ohno-fatface, serif';
+	font-size: 1.2em;
 	color: #FFFFFF;
 }
 
@@ -43,7 +47,7 @@ h2 {color: #688E72;
 html, body {
 	 width: 100%;
 	 height: 100%;
-	 background: linear-gradient(10deg, rgba(243, 186, 202, 1) 75%, rgba(0,0,0,0) 29%);
+	 background: linear-gradient(10deg, rgba(243, 186, 202, 1) 80%, rgba(0,0,0,0) 20%);
 }
  h1 {
 	 font-family: 'Abril Fatface', cursive;
@@ -59,7 +63,9 @@ html, body {
 	 color: #FFFFFF;
 	 text-shadow: -1px -1px 0 #000000, 1px -1px 0 #000000, -1px 1px 0 #000000, 1px 1px 0 #000000, 1px 0px 0px #000000, 0px 1px 0px #000000, 2px 1px 0px #F3BACA, 1px 2px 0px #F3BACA, 3px 2px 0px #FA4EAA, 2px 3px 0px #000000, 4px 3px 0px #000000, 3px 4px 0px #F3BACA, 5px 4px 0px #FA4EAA, 3px 5px 0px #FA4EAA, 6px 5px 0px #FA4EAA, -1px 2px 0 black, 0 3px 0 #688E72, 1px 4px 0 #FA4EAA, 2px 5px 0px #F3BACA, 2px -1px 0 #FA4EAA, 3px 0 0 #FA4EAA, 4px 1px 0 #000000, 5px 2px 0px #F3BACA, 6px 3px 0 #F3BACA, 7px 4px 0 #688E72, 10px 10px 4px #D6CAFF
 }
-.coltextabout {margin-top: 65px;
+.coltextabout {margin-top: 70px;
+	border: dotted;
+	border-color: white;
 	 }
 
 /* FOOTER */
@@ -144,10 +150,10 @@ height:100%;
 	margin-left:40px;
 }
 
-.pnumber {margin-bottom: 1.5px;
-margin-top: 2px;}
+
 
 .imgresume {margin-left: 30px;
+	margin-top: 60px;
 }
 
 .allimages {margin-top: 110px;}
@@ -167,5 +173,5 @@ margin-right: 40px;
 margin-right: 40px;
 }
 
-
-
+.linkedin {margin-top: 20px;
+}
