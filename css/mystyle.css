@@ -89,7 +89,7 @@ html, body {
 	 color: #FFFFFF;
 	 text-shadow: -1px -1px 0 #000000, 1px -1px 0 #000000, -1px 1px 0 #000000, 1px 1px 0 #000000, 1px 0px 0px #000000, 0px 1px 0px #000000, 2px 1px 0px #F3BACA, 1px 2px 0px #F3BACA, 3px 2px 0px #FA4EAA, 2px 3px 0px #000000, 4px 3px 0px #000000, 3px 4px 0px #F3BACA, 5px 4px 0px #FA4EAA, 3px 5px 0px #FA4EAA, 6px 5px 0px #FA4EAA, -1px 2px 0 black, 0 3px 0 #688E72, 1px 4px 0 #FA4EAA, 2px 5px 0px #F3BACA, 2px -1px 0 #FA4EAA, 3px 0 0 #FA4EAA, 4px 1px 0 #000000, 5px 2px 0px #F3BACA, 6px 3px 0 #F3BACA, 7px 4px 0 #688E72, 10px 10px 4px #D6CAFF
 }
-.coltextabout {margin-top: 70px;
+.coltextabout {margin-top: 60px;
 	border: dotted;
 	border-color: white;
 	 }
@@ -188,6 +188,22 @@ height:100%;
 }
 
 .h1magazine{
-	font-size: 5.5em;
-margin-top: 260px;}
+	font-family: 'Abril Fatface';
+	font-size: 3.5em;
+	margin-top: 260px;
+}
 
+.h1boursin {font-family: 'Abril Fatface';
+font-size: 3.5em;
+
+}
+
+.ptekstboursin {font-family: 'ohno-fatface, serif';
+	font-size: 1.2em;
+	color: #FFFFFF;
+	padding: 10px;
+}
+
+.col-lg-3 {margin-top: 80px;}
+
+.col-lg-4 {margin-top: 30px;}
