@@ -169,14 +169,11 @@ height:100%;
   text-align:center;
 }
 .h3footer{
-	font-family: 'Helvetica';
+	font-family: 'Ohno-fatface, cursive';
 	font-size: 30px;
 	font-weight: 100;
 	margin-top:70px;
-	margin-left:40px;
 }
-
-
 
 .imgresume {margin-left: 30px;
 	margin-top: 60px;
@@ -187,7 +184,7 @@ height:100%;
 .img1 {margin-right: 40px;
 }
 
-.linkedin {margin-top: 20px;
+.linkedin {margin-top: 3px;
 }
 
 .h1magazine{font-size: 5.5em;
