@@ -52,7 +52,7 @@
 /* GENERAL */
 h1 {font-family: 'Abril Fatface', cursive;}
 
-p {font-family: 'Helvetica';
+p {font-family: 'ohno-fatface, cursive';
 font-size: 20px;}
 
 h2 {font-family: 'ohno-fatface-condensed, serif';
@@ -187,6 +187,7 @@ height:100%;
 .linkedin {margin-top: 3px;
 }
 
-.h1magazine{font-size: 5.5em;
+.h1magazine{
+	font-size: 5.5em;
 margin-top: 260px;}
 
